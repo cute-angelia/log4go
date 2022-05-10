@@ -1,6 +1,6 @@
 // Copyright (C) 2010, Kyle Lemons <kyle@kylelemons.net>.  All rights reserved.
 
-// Package log4go provides level-based and highly configurable logging.
+// package github.com/cute-angelia/log4go provides level-based and highly configurable logging.
 //
 // Enhanced Logging
 //
@@ -43,7 +43,7 @@
 // - Have GetInfoChannel, GetDebugChannel, etc return a chan string that allows
 //   for another method of logging
 // - Add an XML filter type
-package log4go
+package github.com/cute-angelia/log4go
 
 import (
 	"errors"

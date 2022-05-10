@@ -1,6 +1,6 @@
 // Copyright (C) 2010, Kyle Lemons <kyle@kylelemons.net>.  All rights reserved.
 
-package log4go
+package github.com/cute-angelia/log4go
 
 import (
 	"errors"
