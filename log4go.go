@@ -43,7 +43,7 @@
 // - Have GetInfoChannel, GetDebugChannel, etc return a chan string that allows
 //   for another method of logging
 // - Add an XML filter type
-package main
+package log4go
 
 import (
 	"errors"

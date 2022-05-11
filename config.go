@@ -1,5 +1,5 @@
 // Copyright (C) 2010, Kyle Lemons <kyle@kylelemons.net>.  All rights reserved.
-package main
+package log4go
 
 import (
 	"encoding/xml"
